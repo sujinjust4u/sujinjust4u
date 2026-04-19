@@ -22,7 +22,9 @@
 
 ---
 
-## 💻 About Me
+## 💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF" />
 
 > **B.Tech in AI & Machine Learning** @ SRM Institute of Science and Technology (Class of 2027)
 
@@ -30,9 +32,11 @@
 - 🤖 Passionate about **Computer Vision (YOLO v8/v11/v12) & Deep Learning** - 🧠 Active researcher in **Explainable AI (XAI)** utilizing tools like SHAP to improve model transparency
 - ☁️ Experience deploying serverless AI applications across **AWS, Google Cloud (Vertex AI), & OCI** - 🚀 Building scalable backends, high-performance distributed systems, and real-time detection frameworks  
 
+<br/>
+
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,docker,mysql,mongodb,aws,gcp,git,github,linux&theme=dark" />
@@ -73,7 +77,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics <img src="https://media.giphy.com/media/LmqEhwzF5aEa1oA84F/giphy.gif" width="30">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujinjust4u&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="190em"/>
@@ -101,11 +105,13 @@
 ## 🎯 Dev Mode
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="500">
+  <img src="https://i.pinimg.com/originals/93/0a/63/930a635032bf81d2df0f6227b68ed9aa.gif" width="600" style="border-radius: 10px;">
 </p>
 
+<br/>
+
 <p align="center">
-  <i>"Code. Learn. Build. Repeat." 🔥</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=%22Code.+Learn.+Build.+Repeat.%22+🔥" alt="Quote Animation" />
 </p>
 
 <p align="center">
