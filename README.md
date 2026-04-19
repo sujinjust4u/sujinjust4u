@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suijinjust4u&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suijinjust4u&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujinjust4u&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujinjust4u&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suijinjust4u&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sujinjust4u&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suijinjust4u&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujinjust4u&theme=tokyo-night"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suijinjust4u/suijinjust4u/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/sujinjust4u/sujinjust4u/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
