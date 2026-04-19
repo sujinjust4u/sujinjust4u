@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sujin--s--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujin-s-p-b808b7294)
 [![GitHub](https://img.shields.io/badge/GitHub-sujinjust4u-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujinjust4u)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujin.is.online@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sujinjust4u&label=Profile+Views&color=00f7ff&style=for-the-badge)](https://github.com/sujinjust4u)
 
 </div>
