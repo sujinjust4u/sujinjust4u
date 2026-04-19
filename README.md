@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sujin</h1>
-<h3 align="center">🚀 Python Developer | AI/ML Enthusiast | Cloud Engineer</h3>
+<h3 align="center">🚀 AI/ML Engineer | Cloud Architect | Computer Vision Enthusiast</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;AI+%7C+ML+%7C+Cloud+%7C+Cybersecurity;Building+cool+projects+🚀;Always+learning+new+things+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Vision+%7C+Deep+Learning+%7C+Cloud;Building+scalable+AI+solutions+🚀;Always+learning+new+things+🔥">
 </p>
 
 ---
@@ -19,20 +18,37 @@
 
 ## 💻 About Me
 
-- 🎓 Engineering Student @ SRM University  
-- 🤖 Passionate about **AI, ML & Cloud Computing**  
-- 🧠 Built projects in **Deep Learning & Sentiment Analysis APIs**  
-- ☁️ Experience with **AWS & Google Cloud (Vertex AI)**  
-- 🔐 Cybersecurity Club Organizer  
-- 🚀 Always building & learning something new  
+- 🎓 **B.Tech in AI & Machine Learning** @ SRM Institute of Science and Technology (Class of 2027)  
+- 💼 **Former SDE Intern** @ redBus (ibibo Group) | *Focused on secure agent communication protocols*
+- 🤖 Passionate about **Computer Vision (YOLO framework) & Deep Learning** - 🧠 Active researcher in **Explainable AI (XAI)** using tools like SHAP
+- ☁️ Experience deploying serverless AI applications across **AWS, Google Cloud (Vertex AI), & OCI** - 🚀 Building scalable backends, high-performance distributed systems, and real-time detection frameworks  
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,aws,gcp,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,docker,mysql,mongodb,aws,gcp,git,github,linux" />
 </p>
+<p align="center">
+  <b>Libraries & Frameworks:</b> FastAPI, YOLO (v8/v11/v12), SHAP, OpenCV
+</p>
+
+---
+
+## 🚀 Featured Projects & Research
+
+✨ **Cloud-Based Intelligent Shelf Monitoring System** - *Tech:* YOLOv8, Computer Vision, Cloud Integration
+- *Details:* Real-time retail inventory analysis system designed for automated object detection and continuous monitoring. 
+
+✨ **Cloud-Native Real-Time Customer Churn Prediction** - *Tech:* Explainable AI (SHAP), Cloud-Native Architecture
+- *Details:* Developed a scalable framework focused on model transparency, utilizing XAI to interpret complex machine learning predictions in real-time.
+
+✨ **AI-Based Accident Detection System** - *Tech:* Deep Learning, YOLO framework
+- *Details:* Real-time detection pipeline built for high-accuracy and immediate response to vehicular incidents.
+
+✨ **Cloud-Native Sentiment Analysis API** - *Tech:* FastAPI + Google Cloud Run + Vertex AI  
+- *Details:* High-performance serverless backend for text analysis and natural language processing.
 
 ---
 
@@ -50,27 +66,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sujinjust4u&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujinjust4u&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-✨ **Cloud-Native Sentiment Analysis API**  
-- FastAPI + Google Cloud Run + Vertex AI  
-
-✨ **AI-Based Accident Detection System**  
-- Deep Learning-based real-time detection  
-
-✨ **Hospital Management System**  
-- Java + MySQL + Full Dashboard  
 
 ---
 
