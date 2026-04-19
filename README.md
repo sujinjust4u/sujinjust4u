@@ -48,7 +48,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=suijinjust4u&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sujinjust4u&theme=tokyonight" />
 </p>
 
 ---
