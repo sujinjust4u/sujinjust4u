@@ -53,10 +53,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujinjust4u&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujinjust4u&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
