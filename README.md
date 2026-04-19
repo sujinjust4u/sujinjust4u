@@ -169,10 +169,14 @@ jobs:
 
 ---
 
-## 🏆 GitHub Trophies
+## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujinjust4u&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs" width="80%" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" />
 </div>
 
 ---
