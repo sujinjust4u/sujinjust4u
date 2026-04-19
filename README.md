@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujinjust4u&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sujinjust4u&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
