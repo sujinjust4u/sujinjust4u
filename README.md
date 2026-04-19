@@ -1,65 +1,113 @@
-# Sujin SP
-**`Machine Learning Engineer & Student @ SRMIST`**
+<h1 align="center">Hi 👋, I'm Sujin</h1>
+<h3 align="center">🚀 Python Developer | AI/ML Enthusiast | Cloud Engineer</h3>
 
-I'm a Machine Learning Engineering Under-Graduate student at **SRM Institute of Science and Technology**.
-
-I'm currently working on ML topics like NLP and Reinforcement Learning. I'm always working on new projects and am actively seeking opportunities to collaborate on open-source AI projects or research.
-
----
-
-
-<p align="left">
-  <a href="https://github.com/suijinjust4u" target="_blank">
-    <img src="https://img.shields.io/github/followers/suijinjust4u?style=for-the-badge&logo=github&label=Follow&color=blue" alt="GitHub Followers"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sujin-s-p-b808b7294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="[Portfolio/Blog URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=lighttpd&color=green" alt="Portfolio"/>
-  </a>
-  </p>
-
----
-
-## **Languages and Tools**
-
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="border:0;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border:0;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border:0;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="border:0;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="border:0;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" style="border:0;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" style="border:0;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;AI+%7C+ML+%7C+Cloud+%7C+Cybersecurity;Building+cool+projects+🚀;Always+learning+new+things+🔥">
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujin-s-p-b808b7294">
+    <img src="https://img.shields.io/badge/LinkedIn-Sujin-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
-## **Stats**
+## 💻 About Me
+
+- 🎓 Engineering Student @ SRM University  
+- 🤖 Passionate about **AI, ML & Cloud Computing**  
+- 🧠 Built projects in **Deep Learning & Sentiment Analysis APIs**  
+- ☁️ Experience with **AWS & Google Cloud (Vertex AI)**  
+- 🔐 Cybersecurity Club Organizer  
+- 🚀 Always building & learning something new  
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suijinjust4u&show_icons=true&theme=vision-friendly-dark" alt="Your GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suijinjust4u&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,aws,gcp,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suijinjust4u&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suijinjust4u&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=suijinjust4u&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suijinjust4u&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+✨ **Cloud-Native Sentiment Analysis API**  
+- FastAPI + Google Cloud Run + Vertex AI  
+
+✨ **AI-Based Accident Detection System**  
+- Deep Learning-based real-time detection  
+
+✨ **Hospital Management System**  
+- Java + MySQL + Full Dashboard  
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suijinjust4u&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suijinjust4u/suijinjust4u/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🎯 Dev Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat." 🔥</i>
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suijinjust4u&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
